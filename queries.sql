@@ -1,0 +1,2 @@
+-- Do work in here
+-- psql -d safaridb -f queries.sql
